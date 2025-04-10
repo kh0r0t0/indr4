@@ -1,8 +1,9 @@
 # ----------
 
 
-puts " -indr4- "
-puts " -indra- "
+puts " -indr4- " 
+# class 
+
 
 
 
