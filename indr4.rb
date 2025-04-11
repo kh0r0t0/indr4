@@ -1,10 +1,19 @@
+#!/bin/ruby
+
+
+
+
+puts " -indr4- "
 
 
 
 
 
-puts " -indr4- " 
-# class 
+
+
+
+
+# - 
 
 
 
