@@ -1,10 +1,10 @@
 #!/usr/bin/ruby
 
-# ------------------
+# -------------------
 #  Version 0.1
 #  Ruby, Gims
 #
-# ------------------
+# -------------------
 
 # _Libraries 
 require 'io/console'
