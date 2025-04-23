@@ -1,12 +1,15 @@
-#!/usr/bin/ruby
-
-# -------------------
+#!/usr/bin/ruby 
+# 
+#
+#
+#
 #  Version 0.1
 #  Ruby, Gims
-#  by @kh0r0t0
-# -------------------
+#  by @kh0r0t0 
+# 
 
-# _Libraries 
+
+# _ libraries :
 require 'io/console'
 require 'readline'
 require 'tty-screen'
