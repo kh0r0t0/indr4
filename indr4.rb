@@ -5,8 +5,8 @@
 #
 #  Version 0.1
 #  Ruby, Gims
-#  by @kh0r0t0 
-# 
+#  ... 
+#  
 
 
 # _ libraries :
