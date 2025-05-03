@@ -1,7 +1,6 @@
 #!/usr/bin/ruby 
 #
 #
-#
 #  Version 0.1
 #  Ruby, Gims
 #  ... 
